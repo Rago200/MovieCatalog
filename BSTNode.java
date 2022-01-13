@@ -2,7 +2,6 @@
  * Generic class implementing a Binary Node of a Binary Search Tree (BST)
  *
  * @param <T> type of the data carried by this binary node
- * @author Sulong
  */
 public class BSTNode<T extends Comparable<T>> {
   // Note: DO NOT MAKE ANY CHANGE TO THIS CLASS AND DO NOT SUBMIT IT TO GRADESCOPE
