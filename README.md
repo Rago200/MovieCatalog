@@ -6,6 +6,9 @@ The user can add movies, lookup movies, remove movies and find the best movies. 
 then name when came to sorting the catalog.
 
 Example:
-
+Movie Catalog:
 
 <img width="889" alt="Screen Shot 2022-06-03 at 11 00 42 PM" src="https://user-images.githubusercontent.com/95301146/171981881-ecc6c188-6e12-48ec-a587-007aeb8a7eb1.png">
+
+Adding:
+
