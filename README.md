@@ -3,7 +3,7 @@ Designed and Implemented a binary search tree to store movies based on rating, y
 
 # Functionality
 The user can add movies, lookup movies and find the best movies. The compare to method prioratized year then rating 
-then name when came to sorting the catalog. The to string method used an in order traversal to print the catalog. There were three main objects used: the movie tree, movies and nodes. The movie tree emulated the structure of a Binary Search Tree while the nodes that were added were movies.
+then name when it came to sorting the catalog. The to string method used an in order traversal to print the catalog. There were three main objects used: the movie tree, movies and nodes. The movie tree emulated the structure of a Binary Search Tree while the nodes that were added were movies.
 
 Example:
 
